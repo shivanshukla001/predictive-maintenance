@@ -6,7 +6,7 @@ Built end-to-end as a hands-on portfolio project: data exploration → preproces
 
 ## Live demo
 
-🔗 *Link will be added after Day 10 deployment*
+🔗 https://predictive-maintenance-shivanshukla001.streamlit.app/
 
 ## Screenshot
 
@@ -101,7 +101,7 @@ predictive-maintenance/
 ## How to run locally
 
 1. Clone the repository:
-git clone https://github.com/<your-username>/predictive-maintenance.git
+git clone https://github.com/<shivanshukla001>/predictive-maintenance.git
 cd predictive-maintenance
 
 2. Create a virtual environment and install dependencies:
