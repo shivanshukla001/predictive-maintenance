@@ -1,0 +1,32 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# macOS
+.DS_Store
+
+# Python build / cache
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+build/
+dist/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# IDE folders
+.vscode/
+.idea/
+
+# Trained model artifacts (regenerable from notebooks)
+models/*.pkl
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Logs and temp files
+*.log
+*.tmp
