@@ -10,7 +10,7 @@ Built end-to-end as a hands-on portfolio project: data exploration → preproces
 
 ## Screenshot
 
-*(Add a screenshot here on Day 10)*
+![Predictive Maintenance Dashboard](screenshots/dashboard.png)
 
 ## Problem
 
