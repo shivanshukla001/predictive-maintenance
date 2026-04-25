@@ -22,7 +22,7 @@ dist/
 .idea/
 
 # Trained model artifacts (regenerable from notebooks)
-models/*.pkl
+# models/*.pkl
 
 # Streamlit secrets
 .streamlit/secrets.toml
